@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'DataXVelilla'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_71CC6AF9EA694A7AAEA7365C6D69240C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AD74B0D8CE11451798A6CE4D3BD18B41 }}
