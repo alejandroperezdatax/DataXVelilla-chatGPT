@@ -71,7 +71,7 @@ const Layout = () => {
                       }]
                 }}
                 dialogContentProps={{
-                    title: "Share the web app",
+                    title: "Comparte the web app",
                     showCloseButton: true
                 }}
             >
